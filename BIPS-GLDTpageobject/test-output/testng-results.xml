@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-24T20:04:00 IST" name="Default suite" finished-at="2023-03-24T20:06:05 IST" duration-ms="124679">
+    <groups>
+    </groups>
+    <test started-at="2023-03-24T20:04:00 IST" name="Default test" finished-at="2023-03-24T20:06:05 IST" duration-ms="124679">
+      <class name="testCases.GLDTTestcase3">
+        <test-method is-config="true" signature="initiate_Chromedriver_Open_URL()[pri:0, instance:testCases.GLDTTestcase3@fa36558]" started-at="2023-03-24T20:03:55 IST" name="initiate_Chromedriver_Open_URL" finished-at="2023-03-24T20:04:00 IST" duration-ms="5446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiate_Chromedriver_Open_URL -->
+        <test-method signature="Ropu_login()[pri:1, instance:testCases.GLDTTestcase3@fa36558]" started-at="2023-03-24T20:04:00 IST" name="Ropu_login" finished-at="2023-03-24T20:04:10 IST" duration-ms="9840" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Ropu_login -->
+        <test-method signature="Opens_ExistingROLDCase()[pri:2, instance:testCases.GLDTTestcase3@fa36558]" started-at="2023-03-24T20:04:10 IST" name="Opens_ExistingROLDCase" finished-at="2023-03-24T20:04:18 IST" duration-ms="8170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Opens_ExistingROLDCase -->
+        <test-method signature="captureROLD_id()[pri:3, instance:testCases.GLDTTestcase3@fa36558]" started-at="2023-03-24T20:04:18 IST" name="captureROLD_id" finished-at="2023-03-24T20:04:21 IST" duration-ms="2110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureROLD_id -->
+        <test-method signature="Select_BestDate_ePAF_Submission_Date()[pri:4, instance:testCases.GLDTTestcase3@fa36558]" started-at="2023-03-24T20:04:21 IST" name="Select_BestDate_ePAF_Submission_Date" finished-at="2023-03-24T20:04:32 IST" duration-ms="11236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Select_BestDate_ePAF_Submission_Date -->
+        <test-method signature="Select_BaseDate_ePAF_Submission_Date()[pri:5, instance:testCases.GLDTTestcase3@fa36558]" started-at="2023-03-24T20:04:32 IST" name="Select_BaseDate_ePAF_Submission_Date" finished-at="2023-03-24T20:04:39 IST" duration-ms="7149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Select_BaseDate_ePAF_Submission_Date -->
+        <test-method signature="Select_AcheivedDate_ePAF_Submission_Date()[pri:6, instance:testCases.GLDTTestcase3@fa36558]" started-at="2023-03-24T20:04:39 IST" name="Select_AcheivedDate_ePAF_Submission_Date" finished-at="2023-03-24T20:04:51 IST" duration-ms="12291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Select_AcheivedDate_ePAF_Submission_Date -->
+        <test-method signature="Checkbox_PR_Dossier_Submission_Date_Column()[pri:7, instance:testCases.GLDTTestcase3@fa36558]" started-at="2023-03-24T20:04:51 IST" name="Checkbox_PR_Dossier_Submission_Date_Column" finished-at="2023-03-24T20:05:00 IST" duration-ms="9179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checkbox_PR_Dossier_Submission_Date_Column -->
+        <test-method signature="checkbox_Cut_Off_Date_for_IPR_Column()[pri:8, instance:testCases.GLDTTestcase3@fa36558]" started-at="2023-03-24T20:05:00 IST" name="checkbox_Cut_Off_Date_for_IPR_Column" finished-at="2023-03-24T20:05:09 IST" duration-ms="8868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkbox_Cut_Off_Date_for_IPR_Column -->
+        <test-method signature="checkbox_officialPriceUnreimbursed()[pri:9, instance:testCases.GLDTTestcase3@fa36558]" started-at="2023-03-24T20:05:09 IST" name="checkbox_officialPriceUnreimbursed" finished-at="2023-03-24T20:05:13 IST" duration-ms="4019" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkbox_officialPriceUnreimbursed -->
+        <test-method signature="checkbox_officialPriceReimbursed()[pri:10, instance:testCases.GLDTTestcase3@fa36558]" started-at="2023-03-24T20:05:13 IST" name="checkbox_officialPriceReimbursed" finished-at="2023-03-24T20:05:23 IST" duration-ms="9929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkbox_officialPriceReimbursed -->
+        <test-method signature="checkbox_Unreimbursed()[pri:11, instance:testCases.GLDTTestcase3@fa36558]" started-at="2023-03-24T20:05:23 IST" name="checkbox_Unreimbursed" finished-at="2023-03-24T20:05:30 IST" duration-ms="6912" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkbox_Unreimbursed -->
+        <test-method signature="checkbox_Reimbursed()[pri:12, instance:testCases.GLDTTestcase3@fa36558]" started-at="2023-03-24T20:05:30 IST" name="checkbox_Reimbursed" finished-at="2023-03-24T20:05:40 IST" duration-ms="9921" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkbox_Reimbursed -->
+        <test-method signature="CompleteButton()[pri:13, instance:testCases.GLDTTestcase3@fa36558]" started-at="2023-03-24T20:05:40 IST" name="CompleteButton" finished-at="2023-03-24T20:05:46 IST" duration-ms="6311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CompleteButton -->
+        <test-method signature="CloseButton()[pri:14, instance:testCases.GLDTTestcase3@fa36558]" started-at="2023-03-24T20:05:46 IST" name="CloseButton" finished-at="2023-03-24T20:05:56 IST" duration-ms="9237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseButton -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:testCases.GLDTTestcase3@fa36558]" started-at="2023-03-24T20:05:56 IST" name="logout" finished-at="2023-03-24T20:06:05 IST" duration-ms="9318" status="FAIL">
+          <exception class="java.lang.NullPointerException">
+            <message>
+              <![CDATA[Cannot invoke "org.openqa.selenium.WebDriver.quit()" because "testCases.GLDTTestcase3.driver" is null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.quit()" because "testCases.GLDTTestcase3.driver" is null
+at testCases.GLDTTestcase3.logout(GLDTTestcase3.java:173)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:361)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:296)
+at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:644)
+at org.testng.TestRunner.afterRun(TestRunner.java:914)
+at org.testng.TestRunner.run(TestRunner.java:605)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- testCases.GLDTTestcase3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
